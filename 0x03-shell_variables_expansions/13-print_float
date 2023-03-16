@@ -1,2 +1,2 @@
 #!/bin/bash
-ptintf "%.2f\n" $NUM
+ptintf "%.2f \n" $NUM
